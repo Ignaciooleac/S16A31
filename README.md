@@ -49,8 +49,11 @@ INSERT INTO calls (phone, date, user_id) VALUES ('+569666777', '1/4/18', '2');
 # Ingresar 4 llamadas asociadas al usuario Carlos.
 '''
 INSERT INTO calls (phone, date, user_id) VALUES ('+56922211', '7/5/18', '1');
+
 INSERT INTO calls (phone, date, user_id) VALUES ('+789123123', '3/5/18', '1');
+
 INSERT INTO calls (phone, date, user_id) VALUES ('+123123123', '13/5/18', '1');
+
 INSERT INTO calls (phone, date, user_id) VALUES ('+343434343', '7/6/18', '1');
 '''
 # Crear un nuevo usuario.
